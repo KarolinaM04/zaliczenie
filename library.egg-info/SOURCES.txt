@@ -1,0 +1,8 @@
+setup.py
+library/__init__.py
+library/pack1.py
+library.egg-info/PKG-INFO
+library.egg-info/SOURCES.txt
+library.egg-info/dependency_links.txt
+library.egg-info/not-zip-safe
+library.egg-info/top_level.txt
